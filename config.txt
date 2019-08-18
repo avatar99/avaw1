@@ -1,6 +1,6 @@
-token=NjEyNzA4NDczNjI0NDYxMzQz.XVmfeA.J6lKTVw43iuMvMLssYrvoN2rDlE
+token= NjEyNzA4NDczNjI0NDYxMzQz.XVmfeA.J6lKTVw43iuMvMLssYrvoN2rDlE
 owner= 600369127907131412
 prefix=1
 game= 1Play | DarkSide
 stayinchannel=true
-songinstatus=false 
+songinstatus=true 
